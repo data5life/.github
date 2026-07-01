@@ -1,3 +1,3 @@
-## Data 5 Life
+## data5life
 
-Data5Life is a University project of five people building the web platform for Data4Life Collect
+data5life is a University project of five people building the web platform for data4life Collect
